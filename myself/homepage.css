@@ -1,0 +1,245 @@
+body{
+    margin:auto;
+}
+.topbar{
+    background-image: url('food1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 500px;
+    width:100%;
+    height: 500px;
+}
+.logo{
+    height:17px;
+    width:17px;
+    margin-top:15px;
+    display:inline-block;
+    margin-left:10px; 
+}
+#left{
+    display:inline-block;
+    margin-left:50px;
+    }
+a{
+    text-decoration:none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:purlpe;
+}
+#fullline
+{
+    background-color:gold;
+}
+#logo{
+  height:150px;
+  width:150px;
+  margin-top:-350px;
+  margin-left:500px
+}
+#logo >img{
+    margin-top:40px;
+}
+#heading{
+    text-align: center;
+    color:white;
+    font-size:35px;
+    margin-top:10px;
+    font-family:algerian;
+}
+#dropdown{
+    height:60px;
+    width:60%;
+    margin-left: 28%;
+    margin-top: 3%;
+}
+select{
+    height:40px;
+    width:30%;
+    font-size:15px;
+    border-radius:100px;
+    background-color:gold;
+    border:3px solid #aaa;
+}
+#restaurants{
+    width:50%;
+}
+/* Quick Search Css*/
+#quicksearch{
+    width:80%;
+    height: 500px;
+    margin-left:10%;
+    margin-top:5%
+}
+#QuickHeading{
+    color:#192f60;
+    font-size:30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:block;
+    font-weight:bold
+}
+#QuickSubHeading{
+    color:gray;
+    font-size:20px;
+    margin-top: 20px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: .01;
+}
+#filter{
+    height:600px;
+    width:20%;
+    float: left;
+    box-shadow: 0px 3px 15px black;
+    margin-top:-400px;
+    margin-left:60px
+}
+#content{
+    width:65%;
+    float: left;
+    margin-left: 5%;
+    margin-top: -409px;
+}
+.tileContainer{
+    height: 180px;
+    width: 30%;
+    box-shadow: 0px 3px 15px black;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+#mainTileContainer{
+    margin-top:-20px;
+}
+.tileComponent1{
+    width:46%;
+    float: left;
+}
+
+.tileComponent2{
+    width:46%;
+    float: left;
+    margin-left:20px;
+    
+}
+.tileComponent1 > img{
+    height: 180px;
+    width:100%
+}
+.componentHeading{
+    color: #192f60;
+    font-size:25px;
+    font-weight: bold
+}
+.componentSubHeading{
+    color: gray;
+    font-size:18px;
+    line-height:1;
+}
+.list_content{
+    width:100%;
+    height: 200px;
+    margin-top: 2%;
+}
+.one
+{
+margin-top:15px;
+}
+
+.one legend{ 
+color:#192f60;
+margin-left:20px;
+font-size:25px;
+ 
+} 
+.one label 
+{ display: block;
+line-height:0.1px;
+} 
+.one label input { 
+margin-right: 32px; 
+margin-top:10px;
+position:relative;
+left:20px;
+} 
+
+.one >select
+{
+margin-left:50px;
+background-color:white;
+padding:3px;
+width:50%;
+}
+.one p
+{
+margin-left:20px;
+font-size:27px;
+font-weight:bold;
+line-height:10px;
+color:#192f60;
+}
+
+
+
+
+
+/*@media screen and (max-width:1600px){ 
+    body{
+        background-color:lightblue
+    }
+}
+
+@media screen and (max-width:1400px){
+    body{
+        background-color: lightsalmon
+    }
+}
+
+@media screen and (max-width:1200px){
+    body{
+        background-color: skyblue;
+    }
+    .tileContainer{
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:1000px){
+    body{
+        background-color: lightslategrey;
+        
+    }
+    .tileContainer{
+        width: 40%;
+        
+    }
+    .componentSubHeading{
+        color:white;
+    }
+}
+
+@media screen and (max-width:800px){
+    body{
+        background-color: lightpink;
+    }
+    .tileContainer{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:600px){
+    body{
+        background-color: lightgreen;
+    }
+    .tileContainer{
+        width: 100%;
+    }
+    #mainTileContainer{
+        margin-top:7%;
+    }
+}*/
+
+
+
+
+
+
+

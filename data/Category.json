@@ -1,0 +1,36 @@
+/*WOMENS ACCESSORIES*/
+[
+    {
+        "id":1,
+        "category":" All Jewelary"
+    },
+    {
+        "id":2,
+        "category":"Watches"
+    },
+    {
+        "id":3,
+        "category":"Footwear"
+    },
+    {
+        "id":4,
+        "category":"Lingerie"
+    },
+    {
+        "id":5,
+        "category":"Sunglasses and frames"
+    }
+    {
+        "id":6,
+        "category":"Beauty & Fragrances"
+    },
+    {
+        "id":7,
+        "category":"Fashion Accessories"
+    }
+    {
+        "id":8,
+        "category":"Bags & luggage"
+    }
+    
+]

@@ -1,0 +1,118 @@
+/* women's accessories */
+[
+    {
+        "id":1,
+        "name":"product name",
+        "category":"Fashion Accessories",
+        "category_id":7,
+        "sub_category":"Hair Accessories",
+        "sub_category_id":19,
+        "image":"https://i.ibb.co/syyZfk5/71-P4-A1a-28-L-AC-UL320.jpg",
+        "Price":14.99,
+        "size":"large,medium,small",
+        "Brand":"CestMall"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"Fashion Accessories",
+        "category_id":7,
+        "sub_category":"Belts",
+        "sub_category_id":19,
+        "image":"https://i.ibb.co/28cG7DP/belt.jpg",
+        "Price":333,
+        "size":"large,medium,small",
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"Fashion Accessories",
+        "category_id":7,
+        "sub_category":"Handkerchiefs",
+        "sub_category_id":19,
+        "image":"https://i.ibb.co/Cm6Djs4/140307122-91186754-1534328114.jpg",
+        "Price":218,
+        "size":"large,medium,small",
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"All Jewelary",
+        "category_id":1,
+        "sub_category":"Chain & Necklace",
+        "sub_category_id":1,
+        "image":"https://i.ibb.co/m6YTN5R/143371010-96460248-1576234542.jpg",
+        "Price":266,
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"All Jewelary",
+        "category_id":1,
+        "sub_category":"Bracelet & Bangle",
+        "sub_category_id":2,
+        "image":"https://i.ibb.co/WvntBW7/SAM13201396424298.jpg",
+        "Price":452,
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"All Jewelary",
+        "category_id":1,
+        "sub_category":"Earrings & Rings",
+        "sub_category_id":3,
+        "image":"https://i.ibb.co/fn06X1B/147505814-102287821-1565264282.jpg",
+        "Price":6839,
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"All Jewelary",
+        "category_id":1,
+        "sub_category":"Gold & Diamond Jewellery",
+        "sub_category_id":"4",
+        "image":"https://i.ibb.co/fn06X1B/147505814-102287821-1565264282.jpg",
+        "Price":6839,
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"All Jewelary",
+        "category_id":1,
+        "sub_category":"Silver Jewellery",
+        "sub_category_id":5,
+        "image":"https://i.ibb.co/Bs1F7zV/S0018-MYDFRONTzpsw15lubkw1480359859.jpg",
+        "Price":5079,
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"Footwear",
+        "category_id":3,
+        "sub_category":"Casual Shoes",
+        "sub_category_id":"8",
+        "image":"https://i.ibb.co/DV05Y4Y/152391002-114404782-1623402026.jpg",
+        "Price":902,
+        "Brand":"Aachi"
+    }
+    {
+        "id":1,
+        "name":"product name",
+        "category":"Footwear",
+        "category_id":9,
+        "sub_category":"Flats & Sandals",
+        "sub_category_id":5,
+        "image":"https://i.ibb.co/N9RmKGr/143600500-96841172-1549954799.jpg",
+        "Price":5079,
+        "Brand":"Aachi"
+    }
+    
+
+]

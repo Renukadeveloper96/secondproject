@@ -1,0 +1,95 @@
+/*WOMENS ACCESSORIES*/
+[
+    {
+        "id":1,
+        "sub-category":"Chain & Necklace"
+    },
+    {
+        "id":2,
+        "sub-category":"Bracelet & Bangle"
+    },
+    {
+        "id":3,
+        "sub-category":"Earrings & Rings"
+    },
+    {
+        "id":4,
+        "sub-category":"Gold & Diamond Jewellery"
+    }
+    {
+        "id":5,
+        "sub-category":"Silver Jewellery"
+    },
+    {
+        "id":6,
+        "sub-category":"Smart watches"
+    },
+    {
+        "id":7,
+        "sub-category":"Office Wear Watches"
+    },
+    {
+        "id":8,
+        "sub-category":"Casual Shoes"
+    }
+    {
+        "id":9,
+        "sub-category":"Flats & Sandals"
+    },
+    {
+        "id":10,
+        "sub-category":"Women's Heels & Pumps"
+    }
+    {
+        "id":11,
+        "sub-category":"Aviators"
+    }
+    {
+        "id":12,
+        "sub-category":"Cat Eye"
+    }
+    {
+        "id":13,
+        "sub-category":"Rectangle"
+    }
+    {
+        "id":14,
+        "sub-category":"Wayfarers"
+    },
+    {
+        "id":15,
+        "sub-category":"Oval"
+    },
+    {
+        "id":16,
+        "sub-category":"Skin Care"
+    },
+    {
+        "id":17,
+        "sub-category":"Make-Up"
+    }
+    {
+        "id":18,
+        "sub-category":"Hair Care"
+    },
+    {
+        "id":19,
+        "sub-category":"Hair Accessories"
+    },
+    {
+        "id":20,
+        "sub-category":"Belts"
+    },
+    {
+        "id":21,
+        "sub-category":"Handkerchiefs"
+    }
+    {
+        "id":22,
+        "sub-category":"Backpacks & Laptop Bags"
+    },
+    {
+        "id":23,
+        "sub-category":"Gym Bags"
+    }
+]
